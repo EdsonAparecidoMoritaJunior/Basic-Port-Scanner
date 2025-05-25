@@ -17,5 +17,6 @@ Este é um scanner de portas TCP simples, desenvolvido em Python. Ele permite qu
 - Scripts básicos de linha de comando (CLI)
 
 ⚠️ Aviso
+
 Este projeto é apenas para fins educacionais. 
 Nunca escaneie hosts sem permissão.
