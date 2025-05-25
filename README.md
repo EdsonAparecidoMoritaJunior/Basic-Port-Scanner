@@ -17,4 +17,5 @@ This is a simple TCP port scanner built with Python. It allows the user to enter
 - Basic CLI scripting
 
 ⚠️ Disclaimer
+
 This project is for educational purposes only. Never scan hosts without permission.
