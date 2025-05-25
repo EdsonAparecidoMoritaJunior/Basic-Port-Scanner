@@ -1,4 +1,7 @@
-🇧🇷 Português
+<h1 align="center">🔍 Port Scanner</h1>
+<p align="center"><img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" alt="Python version" /><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></p>
+
+[🇺🇸 English](README.md) | [🇧🇷 Português](README.pt.md)
 
 📌 Descrição
 Este é um scanner de portas TCP simples, desenvolvido em Python. Ele permite que o usuário insira um endereço IP ou domínio e veja quais portas estão abertas.
