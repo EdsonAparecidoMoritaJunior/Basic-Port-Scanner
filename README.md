@@ -1,7 +1,7 @@
 <h1 align="center">🔍 Port Scanner</h1>
 <p align="center"><img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" alt="Python version" /><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></p>
 
-🇺🇸 English  🇧🇷 Português
+[🇺🇸 English](README.md) | [🇧🇷 Português](README.pt.md)
 
 🇺🇸 English
 📌 Description
